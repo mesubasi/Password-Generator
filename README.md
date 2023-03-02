@@ -11,6 +11,7 @@
     <li>Include Lowercase Characters,</li>
     <li>Include Numbers,</li>
     <li>Include Symbols,</li>
-    <li>Copy Button</li>
-    </ul>
+    <li>Copy Button,</li>
+    <li>Responsive</li>
+</ul>
 

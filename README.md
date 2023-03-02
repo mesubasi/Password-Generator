@@ -3,15 +3,15 @@
 <h2> Tasks </h2>
 <ul>
 <li>Password Strength Meter <br></li>
-    <ul><li>Weak: Red, </li> 
-    <li>Moderate: Orange, </li> 
-    <li>Strong: Yellowgreen, </li> 
-    <li>Very Strong: Green,</li> </ul> 
-    <li>Include Uppercase Characters, </li>
-    <li>Include Lowercase Characters,</li>
-    <li>Include Numbers,</li>
-    <li>Include Symbols,</li>
-    <li>Copy Button,</li>
+    <ul><li>Weak: Red </li> 
+    <li>Moderate: Orange </li> 
+    <li>Strong: Yellowgreen </li> 
+    <li>Very Strong: Green</li> </ul> 
+    <li>Include Uppercase Characters </li>
+    <li>Include Lowercase Characters</li>
+    <li>Include Numbers</li>
+    <li>Include Symbols</li>
+    <li>Copy Button</li>
     <li>Responsive</li>
 </ul>
 

@@ -7,10 +7,10 @@
     <li>Moderate: Orange, </li> 
     <li>Strong: Yellowgreen, </li> 
     <li>Very Strong: Green,</li> </ul> 
-    <li>Include Uppercase Characters </li>
-    <li>Include Lowercase Characters</li>
-    <li>Include Numbers</li>
-    <li>Include Symbols</li>
+    <li>Include Uppercase Characters, </li>
+    <li>Include Lowercase Characters,</li>
+    <li>Include Numbers,</li>
+    <li>Include Symbols,</li>
     <li>Copy Button</li>
     </ul>
 

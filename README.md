@@ -6,7 +6,7 @@
     <ul><li>Weak: Red, </li> 
     <li>Moderate: Orange, </li> 
     <li>Strong: Yellowgreen, </li> 
-    <li>VeryStrong: Green,</li> </ul> 
+    <li>Very Strong: Green,</li> </ul> 
     <li>Include Uppercase Characters </li>
     <li>Include Lowercase Characters</li>
     <li>Include Numbers</li>

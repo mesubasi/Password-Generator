@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Password Generator</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <!-- The header containing the title -->
+  <header>
+    <h1>Password Generator</h1>
+  </header>
+
+  <!-- The main section containing the form and password display -->
+  <main>
+    <!-- The password form -->
+    <form id="password-form">
+      <!-- Password length input -->
+      <div class="form-group">
+        <label for="password-length">Password Length:</label>
+        <input type="number" id="password-length" name="password-length" min="8" max="20" value="8" />
+      </div>
+
+      <!-- Include uppercase letters checkbox -->
+      <div class="form-group">
+        <label for="include-uppercase">Include Uppercase Letters:</label>
+        <input type="checkbox" id="include-uppercase" name="include-uppercase" />
+      </div>
+
+      <!-- Include lowercase letters checkbox -->
+      <div class="form-group">
+        <label for="include-lowercase">Include Lowercase Letters:</label>
+        <input type="checkbox" id="include-lowercase" name="include-lowercase" checked />
+      </div>
+
+      <!-- Include numbers checkbox -->
+      <div class="form-group">
+        <label for="include-numbers">Include Numbers:</label>
+        <input type="checkbox" id="include-numbers" name="include-numbers" checked />
+      </div>
+
+      <!-- Include symbols checkbox -->
+      <div class="form-group">
+        <label for="include-symbols">Include Symbols:</label>
+        <input type="checkbox" id="include-symbols" name="include-symbols" />
+      </div>
+
+      <!-- Generate password button -->
+      <button type="submit">Generate Password</button>
+    </form>
+
+    <!-- Password display container -->
+    <div id="password-container">
+      <!-- Password input field -->
+      <input type="text" id="password" readonly />
+
+      <!-- Password copy button -->
+      <button id="copy-password">Copy</button>
+    </div>
+  </main>
+
+  <!-- The script to generate and display the password -->
+  <script src="js/script.js"></script>
+</body>
+
+</html>
